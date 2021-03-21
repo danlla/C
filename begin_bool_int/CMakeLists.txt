@@ -1,0 +1,18 @@
+﻿cmake_minimum_required (VERSION 3.11)
+
+project (begin_bool_int)
+
+add_executable (begin7 begin7.c)
+add_executable (begin14 begin14.c)
+add_executable (begin24 begin24.c)
+add_executable (begin26 begin26.c)
+add_executable (begin31 begin31.c)
+add_executable (integer7  integer7.c)
+add_executable (integer14  integer14.c)
+add_executable (integer24  integer24.c)
+add_executable (integer30  integer30.c)
+add_executable (boolean7  boolean7.c)
+add_executable (boolean11  boolean11.c)
+add_executable (boolean22  boolean22.c)
+add_executable (boolean31  boolean31.c)
+add_executable (boolean33  boolean33.c)

@@ -1,0 +1,18 @@
+﻿cmake_minimum_required (VERSION 3.11)
+
+project (if_case_for_while_recur C)
+
+add_executable (if30 if30.c)
+add_executable (if26 if26.c)
+add_executable (case20 case20.c)
+add_executable (case15 case15.c)
+add_executable (for40 for40.c)
+add_executable (for25 for25.c)
+add_executable (while1 while1.c)
+add_executable (while17 while17.c)
+add_executable (series15 series15.c)
+add_executable (series4 series4.c)
+add_executable (proc16 proc16.c)
+add_executable (proc24 proc24.c)
+add_executable (recur1 recur1.c)
+add_executable (recur4 recur4.c)
